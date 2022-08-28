@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KoinWorks**
 
-- 🌱 I’m currently learning **Cypress, and**
+- 🌱 I’m currently learning **Something Big**
 
 - 📫 How to reach me **kristian021998@gmail.com**
 
