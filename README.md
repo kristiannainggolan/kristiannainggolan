@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kristian Pratama Nainggola</h1>
+<h1 align="center">Hi 👋, I'm Kristian Pratama Nainggolan</h1>
 <h3 align="center">A passionate QA Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on **KoinWorks**
+- 🔭 I’m currently working at **KoinWorks**
 
-- 🌱 I’m currently learning **Cypress, and Appium**
+- 🌱 Playing around with **Selenium and Appium**
 
 - 💬 Ask me about **Automation and Manual Testing**
 
-- 📫 How to reach me **kristian021998@gmail.com**
+- ⚡ Fast learner and easily adapt
 
-- ⚡ Fun fact **I am a doggo lovers**
+- 📫 Hit me on email **kristian021998@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
