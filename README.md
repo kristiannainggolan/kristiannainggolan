@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristian Pratama Nainggolan</h1>
-<h3 align="center">A QA Engineer from Indonesia</h3>
+<h3 align="center">QA Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working at **KoinWorks**
+- 🔭 I’m currently working at **Julo**
 
-- 🌱 Playing around with **Selenium and Appium**
+- 🌱 Playing around with **Selenium and Pytest**
 
 - 💬 Ask me about **Automation and Manual Testing**
 
