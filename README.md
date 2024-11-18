@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristian Pratama Nainggolan</h1>
-<h3 align="center">A passionate QA Engineer from Indonesia</h3>
+<h3 align="center">A QA Engineer from Indonesia</h3>
 
 - 🔭 I’m currently working at **KoinWorks**
 
